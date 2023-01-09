@@ -326,7 +326,144 @@
     "district":"Kathmandu",
     "region":"central Region"
 
+},
+{
+
+    "name":"2015 Bal Griha",
+    "address":"ward no 4",
+    "contactperson":"Yogendra Bd.Pradhanang",
+    "phone":"6224204",
+    "sector":"Community and Rural Development",
+    "district":"Bhaktapur",
+    "region":"Central Region"
+
+},
+{
+    "name":"Amrit Nepal",
+    "address":"Ward No. 2",
+    "contactperson":"Deepak Kumar Jaiswal",
+    "phone":"9849193178",
+    "sector":"Community and Rural Development",
+    "district":"Lalitpur",
+    "region":"Central Region"   
+},{
+    "name":"Luitel Sewa Samaj",
+    "address":"Ward No. 32",
+    "contactperson":"Devi Prasad Luitel",
+    "phone":"9841196061",
+    "sector":"Community and Rural Development",
+    "district":"Kathmandu",
+    "region":"Central Region"
+},
+{
+    "name":"Kamala Samudayik Gramin Bikas  Kendra",
+    "address":"Kalyanpur - 1, POB 15142 EPC 316",
+    "contactperson":"Mukesh Kumar Mallik",
+    "phone":"9849025004",
+    "sector":"Community and Rural Developmen",
+    "district":"Siraha",
+    "region":"Eastern Region"
+},
+{
+    "name":"Durgam Kshetra Bikas Sanstha Nepal",
+    "address":"Jantarkhani - 9",
+    "contactperson":"Jigme Sherpa",
+    "phone":"9741060467,9849584778",
+    "sector":"Community and Rural Development",
+    "district":"Okhaldhunga",
+    "region":"Eastern Region"
+},
+{
+    "name":"Janaheet Kendra",
+    "address":"Phidim - 1",
+    "contactperson":"Bijay Tirtha Lawati",
+    "phone":"9742601581,9741060700",
+    "sector":"Community and Rural Development",
+    "district":"Panchathar",
+    "region":"Eastern Region"
+},
+{
+    "name":"Purnima Help Center",
+    "address":"Tamavas -1",
+    "contactperson":"Ashok Shrestha",
+    "phone":"079-520181,9851075868",
+    "sector":"Community and Rural Development",
+    "district":"Gulmi",
+    "region":"Western Region"
+},
+{
+    "name":"Jaybhim Nepal Dalit Bikas Sewa Sanstha",
+    "address":"Bhujahawa - 5",
+    "contactperson":"Balchan Prasad Harijan",
+    "phone":"9727842408",
+    "sector":"Community and Rural Development",
+    "district":"Nawalparasi",
+    "region":"Western Region"
+},
+{
+    "name":"Tikanidi Samudayik Bikas Kendra",
+    "address":"Basantapur - 2",
+    "contactperson":"Deepak Khanal",
+    "phone":"9841593728",
+    "sector":"Community and Rural Development",
+    "district":"Nawalparasi",
+    "region":"Western Region"
+},
+{
+    "name":"Rim Rara Nepal",
+    "address":"Srinagar - 5",
+    "contactperson":"Bakhat Bahadur Malla",
+    "phone":"9849098593",
+    "sector":"Community and Rural Development",
+    "district":"Mugu",
+    "region":"Mid-Western Region"
+},
+{
+    "name":"Karnali Anusandhan Kendra",
+    "address":"Simkot - 4",
+    "contactperson":"Deepak B. Buda",
+    "phone":"9741154643",
+    "sector":"Community and Rural Development",
+    "district":"Humla",
+    "region":"Mid-Western Region"
+},
+{
+    "name":"Sharada Kumakha Natya Sanstha",
+    "address":"Khalanga - 2, Srinagar",
+    "contactperson":"Khalanga - 2, Srinagar",
+    "phone":"9847844820",
+    "sector":"Community and Rural Development",
+    "district":"Salyan",
+    "region":"Mid-Western Region"
+},
+{
+    "name":"Amar Prahari Parivar Ra Ashakta Avakash Prahari Sangh",
+    "address":"Milanchok - 3",
+    "contactperson":"Sita Khatri",
+    "phone":"9848451919",
+    "sector":"Community and Rural Development",
+    "district":"Kailali",
+    "region":"Far Western Region"
+},
+{
+    "name":"Samudayik Bikas Manch",
+    "address":"Khalanga - 5, Uku",
+    "contactperson":"Divani Ram Lohar",
+    "phone":"9741106379,9749515525",
+    "sector":"Community and Rural Development",
+    "district":"Darchula",
+    "region":"Far Western Region"
+},
+{
+    "name":"Mahla Dalit Tatha Balbalika Bikas Kendra",
+    "address":"Chortanta - 3",
+    "contactperson":"Surya Chadara",
+    "phone":"9749002491,097-680179",
+    "sector":"Community and Rural Development",
+    "district":"Bajura",
+    "region":"Far Western Region"
 }
+
 
 
 ]
