@@ -327,6 +327,182 @@
     "region":"central Region"
 
 },
+
+
+{
+    "name":"Abiral Sahitya Samaj",  
+    "address":"Badegaun 2",
+    "contactperson":"Yadunath Basantapure",
+    "phone":"9741004143,9841318671",
+    "sector":"Educational Development",
+    "district":" Sindhupalchok",
+    "region":"Central Region"
+
+},
+
+
+{
+    "name":"Asian Shaikshik Mitrata Nepal",
+    "address":"Lalitapur Na.pa.11",
+    "contactperson":"Suni Maharjan",
+    "phone":"5560039",
+    "sector":"Educational Development",
+    "district":"Lalitpur",
+    "region":"Central Region"
+
+},
+
+
+{
+    "name":"Gramin Sikchhya Tatha Samudayik Swasthya Nepal",
+    "address":"Katunje 1",
+    "contactperson":"Upendra Sharma Ghimire",
+    "phone":"9841221109",
+    "sector":"Educational Development",
+    "district":"Bhaktapur",
+    "region":"Central Region"
+
+},
+
+{
+    "name":"Ramaroshan Samudayik Adhhyan Kendra",
+    "address":"Ramroshan 1",
+    "contactperson":"Sher Bdr. Saud",
+    "phone":"9749010117",
+    "sector":"Educational Development",
+    "district":"Achham",
+    "region":"Far Western Region"
+
+},
+
+
+
+{
+    "name":"Shiksha Jagaran Anusandhan Tatha Bikas Nepal",
+    "address":"Matela -3",
+    "contactperson":"Deepak Raj Ojha",
+    "phone":"9741159251",
+    "sector":"Educational Development",
+    "district":"Bajhang",
+    "region":"Far Western Region"
+
+},
+
+
+{
+    "name":"Vigyan Tatha Pravidhi Anusandhan Tatha Bikas Kendra",
+    "address":"Dhangadi - 5",
+    "contactperson":"Ram Bahadur Khadka",
+    "phone":"9745016848",
+    "sector":"Educational Development",
+    "district":" Kailali",
+    "region":"Far Western Region"
+
+},
+
+{
+    "name":"Bhutpurba Bidhyarthi Samaj Shree Bhagawati Himalaya Ma.Vi.",
+    "address":"Ghairung 2",
+    "contactperson":"Kamal Pd. Regmi",
+    "phone":"9841499476",
+    "sector":"Educational Development",
+    "district":"Gorkha",
+    "region":"Western Region"
+
+},
+
+
+{
+    "name":"Durga Shaikshik Sahayog Samaj",
+    "address":"Amawa 3",
+    "contactperson":"Rajan Gyawali",
+    "phone":"07161933",
+    "sector":"Educational Development",
+    "district":"Rupandehi",
+    "region":"Western Region"
+
+},
+
+
+{
+    "name":"Gramina Shikshyaa Wikas Kendra",
+    "address":"Dhikur Pokhari Wada Nan. 9",
+    "contactperson":"Lokaraj Adhikari",
+    "phone":"9803275681",
+    "sector":"Educational Development",
+    "district":"kaski",
+    "region":"Western Region"
+
+},
+
+
+{
+    "name":"Himalaya Education Center",
+    "address":"Khadbari - 10 Tinpokhari ",
+    "contactperson": "Wanchehar Lama",
+    "phone":"9742043264,9842095465",
+    "sector":"Education Development",
+    "district":"Sankhuwasabha",
+    "region":"Eastern Region"
+
+},
+
+{
+    "name":"Islah Educational Society Nepal",
+    "address":"Ramanagar Bhutaha 2",
+    "contactperson":"Mo. Tahir Husain Ansari",
+    "phone":"9851053758,4227259",
+    "sector":"Education Development",
+    "district":"Sunsari",
+    "region":"Eastern Region"
+
+},
+
+
+{
+    "name":"Kedar Madhyamik Bidhyalaya Purba ",
+    "address":"Necha Betghari",
+    "contactperson":"Balkumar Sharma",
+    "phone":"4227158, 9841290426",
+    "sector":"Education Development",
+    "district":"Solukhumbu",
+    "region":"Eastern Region"
+
+},
+
+{
+    "name":"Dharmadhat Shaikshik Adhar",
+    "address":"Ka.ma.na.pa.33",
+    "contactperson":"Budhh Ghiring Mokttan",
+    "phone":"4474195",
+    "sector":"Educational Development",
+    "district":"Kathmandu",
+    "region":"Central Region"
+
+},
+
+
+{
+    "name":"Himali Samudayik Addhyan Kendra",
+    "address":"Dadafya",
+    "contactperson":"Ajay Bdr. Shahi",
+    "phone":"9841485761",
+    "sector":"Educational Development",
+    "district":"Humla",
+    "region":"Mid Western Region"
+
+},
+
+{
+    "name":"Janasewa Samudayik Pustakalaya",
+    "address":"Manma 5",
+    "contactperson":"Deviram Acharya",
+    "phone":"9741128420",
+    "sector":"Education Development",
+    "district":"Kalikot",
+    "region":"Mid Western Region"
+
+},
 {
 
     "name":"2015 Bal Griha",
@@ -463,7 +639,6 @@
     "district":"Bajura",
     "region":"Far Western Region"
 }
-
 
 
 ]
