@@ -2,12 +2,9 @@ const chalk = require("chalk");
 const express = require("express");
 const app = express();
 const connectdb = require('./database/connection');
+const morgan= require('morgan');
 require('dotenv').config();
-
-
-
-
-
+app.use(morgan('tiny'));
 //importing routers and controllers
 
 const homepagerouter = require('./routes/homerouter');
