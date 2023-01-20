@@ -1,9 +1,11 @@
 const express = require('express');
+exports.homepage=async(req,res)=>{
+     // res.status(200).json(({msg:'this is homepage'}));
+     res.status(200).render('home');
 
-const homepage = async(req,res)=>{
-     res.status(200).json(({msg:'this is homepage'}));
-
-
+},
+ exports.adminadd=async(req,res)=>{
+     res.status(200).render('adminadd');
 }
 
-module.exports = homepage
+// module.exports = {homepage,adminadd}
